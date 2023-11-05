@@ -1,4 +1,4 @@
-# TripTales_BetterDesigned_LandingPage
+# TripTales BetterDesigned LandingPage
 A more well structured and designed Landing Page for TripTales Website Project
 
 ![87131b2c-fd89-4fe6-a1fa-a629763f1d01](https://github.com/KamalpreetSingh178/TripTales_BetterDesigned_LandingPage/assets/147826488/938871cb-69a1-4960-9328-d9f39fde92ab)
